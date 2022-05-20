@@ -9,3 +9,18 @@
 
 ## JSP
 webapp/WEB-INF 에 JSP 파일 작성해두었고, application.properties에 prefix, suffix로 resolver 등록해두었습니다.
+
+<hr>
+
+## 목록 화면 (Read), 삭제 기능 (Delete)
+<img src="https://github.com/miromike/board-jsp-jpa-mysql/blob/master/board1_pic1.jpg">
+
+## 등록 화면 (Create)
+<img src="https://github.com/miromike/board-jsp-jpa-mysql/blob/master/board1_pic2.jpg" width=50%>
+
+## 업데이트 화면 (Update)
+<img src="https://github.com/miromike/board-jsp-jpa-mysql/blob/master/board1_pic3.jpg" width=50%>
+
+## DB 화면 (MySQL)
+<img src="https://github.com/miromike/board-jsp-jpa-mysql/blob/master/board1_pic4.jpg" width=50%>
+
